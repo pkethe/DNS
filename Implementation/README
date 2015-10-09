@@ -1,0 +1,7 @@
+Local Name Server
+
+1) How to Compile
+	prompt# javac DNS_Main.java
+
+2) How to Run
+	prompt# sudo java DNS_Main
